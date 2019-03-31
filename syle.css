@@ -1,0 +1,28 @@
+
+.timer {
+    width: 100%;
+    background: pink;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 600;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    margin-bottom: 40px;
+}
+
+.playerOne, .playerTwo {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 40px;
+}
+
+.playerTwo {
+    /* background-color: blue; */
+    background-image: url('https://img.staticbg.com/images/oaupload/banggood/images/51/AC/a76618eb-8f1f-45ca-8b5c-e6635f2ff5ec.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
